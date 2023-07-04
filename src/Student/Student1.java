@@ -7,4 +7,9 @@ public class Student1 {
         }
 
     }
+
+    public void myMethod2(){
+        System.out.println("Hi");
+    }
+
 }
